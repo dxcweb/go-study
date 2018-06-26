@@ -1,9 +1,12 @@
 package main
 
-import "github.com/dxcweb/go-study/ddos"
-
 func main() {
 	// readwrite.WriteFile()
 	// readwrite.ReadFile()
-	ddos.UDPFlood()
+
+}
+
+func test(data interface{}) {
+	value := post.(type)
+	// fmt.Println()
 }
